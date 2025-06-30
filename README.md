@@ -1,4 +1,4 @@
-# 🕵️ Cyber Investigator Toolkit
+# 🕵️ Cyber Investigator Toolkit (Follow me on instagram- @genius_prabhat)
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
